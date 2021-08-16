@@ -27,5 +27,5 @@ The Chicago and New York City files also contain gender and birth year.
 
 The file names are chicago.csv, new_york-city.csv, and washington.csv
 ### Credits
-Credit to Udacity and to Motivate for providing the data for this project.
+Credit to Udacity and to Motivate for providing the data for this project. Motivate is a bike share system provider for many major cities in the United States.
 
