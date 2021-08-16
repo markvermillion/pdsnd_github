@@ -2,6 +2,9 @@ import time
 import pandas as pd
 import numpy as np
 
+    # adding city files from Chicago, New York City, and Washington
+
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
